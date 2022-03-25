@@ -5,4 +5,4 @@ Integrantes:
 Rogelio de Jesús Portillo Vélez (representante).
 Integrante 2
 Integrante 3
-Proyecto propuesto: Robots químicos
+Proyecto propuesto: Robots Ciber-químicos
