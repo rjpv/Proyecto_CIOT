@@ -1,5 +1,5 @@
 # Proyecto_CIOT
-Nombre del equipo: SESMX.
+Nombre del equipo: ROBUV.
 
 Integrantes:
 Rogelio de Jesús Portillo Vélez (representante).
